@@ -1,0 +1,23 @@
+header {
+     text-align:center;
+     padding:30px;
+     background-color:rgb(138, 97, 156);
+
+    }
+h1{
+    font-size:30px;
+    font-weight: bold;
+
+}
+main{
+    background-color:rgb(111, 184, 212);
+    text-align: center;
+    padding:30px;
+    margin:auto;
+
+}
+h2{
+    padding-bottom: 20px;
+    font-size: 20px
+
+}
